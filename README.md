@@ -1,5 +1,14 @@
 # A.I Toolbox Resizer
 
+### Usage
+
+Run emulator
+`~/Android/Sdk/emulator/emulator -avd Resizable_Experimental_API_UpsideDownCake -netdelay none -netspeed full`
+
+Run in browser
+
+`flutter run -d chrome`
+
 ### TODO
 
 - Allow square cropping of input image or squeeze it into 1x1 aspect ratio
